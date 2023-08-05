@@ -61,7 +61,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "fibonacci_calculator"
+name = "fibonacci-calculator"
 version = "0.1.0"
 dependencies = [
  "dialoguer",
